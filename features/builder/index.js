@@ -1,0 +1,1 @@
+export { ResumeBuilderFormPage } from "@/features/builder/components/ResumeBuilderFormPage"
